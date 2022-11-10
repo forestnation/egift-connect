@@ -2,13 +2,10 @@
         "template_id": "12345",
         "custom_message": "",
         "salutation": "Dear",
-        "recipient_first_name": "James",
-        "recipient_last_name": "Pothy",
-        "recipient_email": "apothecary@3creations.com",
-        "recipient_type": "person", 
-        "10": "",
-        "11": "10",
-        "__ROW_NUMBER__": 2,
-        "__SPREADSHEET_ID__": "1ZMb4AbPM3hcsxNSv_SFt1hpYjc21wcFzuhVT9D5-No8",
-        "__SHEET__": "Sheet1"
+        "recipient_first_name": "first_name",
+        "recipient_last_name": "last_name",
+        "recipient_email": "xxxx@yyyyy.com",
+        "recipient_type": "person", /*person or company*/
+        "recipient_company_name": "xxxxx", /*if recipient_type is company*/
+        "tree_amount": "10"
     },
